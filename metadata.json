@@ -1,0 +1,8 @@
+{
+  "name": "INDEPENDENTE — An Independent Citizens Network",
+  "description": "Integrated civic media, advocacy center, partner network portal, events management, and Citizen Isanguni reporting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

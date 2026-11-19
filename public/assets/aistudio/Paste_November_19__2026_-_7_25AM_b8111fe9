@@ -1,0 +1,991 @@
+# MASTER DEVELOPMENT PROMPT
+## INDEPENDENTE
+### An Independent Citizens Network
+**Platform:** Integrated Media, Advocacy, Civic Engagement, Partnerships, and Citizen Action Portal
+
+---
+
+## 1. PROJECT OVERVIEW
+
+Develop a modern, responsive, professional, and fully functional web application for **INDEPENDENTE – An Independent Citizens Network**.
+
+INDEPENDENTE is an independent, nonpartisan, citizen-centered civic network that recognizes the role of responsible, informed, critical-thinking citizens in shaping society.
+
+The platform must serve as the organization's central digital infrastructure, connecting citizens, independent organizations, institutions, advocates, community leaders, and partner organizations.
+
+The application must not look like a typical organizational website. It should resemble a combination of:
+
+- An independent digital newsroom.
+- A civic advocacy and information center.
+- A community and partnership network.
+- An events and activities management portal.
+- A secure citizen feedback, complaint, and reporting system.
+- An organizational management dashboard.
+
+**Core philosophy:**
+
+"An informed citizenry is an empowered citizenry."
+
+**Brand identity:**
+- Organization: INDEPENDENTE
+- Description: An Independent Citizens Network
+- Core message: Independent Minds. Informed Choices. Empowered Citizens.
+- Values: Independence, accountability, inclusivity, transparency, civic participation, critical thinking, democratic engagement, and responsible citizenship.
+
+The platform must remain politically independent, nonpartisan, inclusive, and accessible to people with different political beliefs and backgrounds.
+
+## 2. PRIMARY OBJECTIVES
+
+Build a centralized platform that allows INDEPENDENTE to:
+
+1. Publish news, articles, statements, research, and advocacy materials.
+2. Present its advocacy programs, campaigns, and initiatives.
+3. Connect and showcase affiliated organizations and institutional partners.
+4. Provide a dedicated login-based portal for accredited partner organizations.
+5. Announce, organize, and manage events and activities.
+6. Allow citizens to submit concerns, complaints, recommendations, and reports through the CITIZEN ISANGUNI portal.
+7. Receive and process reports that require attention, referral, investigation, or appropriate action.
+8. Provide a transparent and organized communication channel between citizens and the network.
+9. Manage internal operations through an administrative dashboard.
+
+---
+
+# 3. APPLICATION STRUCTURE AND MAIN NAVIGATION
+
+Create the following primary navigation menu:
+
+1. HOME
+2. MEDIA & PUBLICATIONS
+3. ADVOCACY CENTER
+4. OUR NETWORK
+5. EVENTS & ACTIVITIES
+6. PARTNERSHIP PORTAL
+7. CITIZEN ISANGUNI
+8. ABOUT US
+9. CONTACT
+
+Include a prominent "SUBMIT A CONCERN" button that redirects to Citizen Isanguni.
+
+The interface should have a clean navigation bar, responsive mobile menu, search function, and accessible footer.
+
+---
+
+# 4. HOME PAGE — THE INDEPENDENT CITIZEN
+
+Design a compelling homepage that introduces the network and directs visitors to its different services.
+
+### Hero Section
+
+Display:
+
+INDEPENDENTE
+An Independent Citizens Network
+
+"Ang isang bansa ay hindi lamang hinuhubog ng pamahalaan, mga personalidad sa politika, o mga institusyon. Hinuhubog din ito ng mga mamamayang mulat, mapanuri, responsable, at handang makilahok."
+
+Primary buttons:
+- Explore Our Network
+- Read Our Publications
+- Become a Partner
+- Citizen Isanguni
+
+### Homepage Sections
+
+A. Latest Publications
+- Featured news.
+- Latest articles.
+- Official statements.
+- Research and reports.
+- Editorial features.
+
+B. Current Advocacy Priorities
+- Featured campaigns.
+- Current civic issues.
+- Community initiatives.
+- Ongoing advocacy programs.
+
+C. Our Network
+- Featured partner organizations.
+- Institutional partners.
+- Community organizations.
+- Affiliated groups.
+
+D. Upcoming Events
+- Upcoming forums.
+- Conferences.
+- Workshops.
+- Consultations.
+- Community activities.
+
+E. Citizen Participation
+Explain how citizens can:
+- Raise concerns.
+- Submit complaints.
+- Recommend solutions.
+- Report community issues.
+- Participate in consultations.
+
+F. Partnership Invitation
+A section inviting organizations, institutions, and community groups to become official network partners.
+
+G. Latest Announcements
+Official organizational announcements and important updates.
+
+---
+
+# 5. MEDIA & PUBLICATIONS CENTER
+
+Develop a fully functional digital publication center that serves as the network's independent media and information platform.
+
+### Publication Categories
+
+Create the following editorial sections:
+
+1. NEWS – Current developments, public affairs, and community news.
+2. INVESTIGATIVE REPORTS – Document-based reporting and examinations of public-interest issues.
+3. FEATURES – Human-interest stories, community profiles, and significant developments.
+4. OPINION & EDITORIAL – Opinions, commentaries, and editorial perspectives.
+5. PRESS RELEASES – Official organizational statements and announcements.
+6. RESEARCH & POLICY – Research papers, policy briefs, studies, and analytical reports.
+7. ADVOCACY PUBLICATIONS – Campaign materials, explainers, and information resources.
+8. COMMUNITY REPORTS – Local issues, grassroots initiatives, and citizen perspectives.
+
+### Publication Features
+
+Every publication should support:
+
+- Headline.
+- Subheadline.
+- Author or editorial team.
+- Publication date.
+- Category.
+- Featured image.
+- Article body with rich-text formatting.
+- References and sources.
+- Related publications.
+- Shareable article links.
+- Tags and keywords.
+- Draft, review, scheduled, and published statuses.
+
+### Editorial Management
+
+Create a backend editorial system with these roles:
+
+- Administrator.
+- Editor-in-Chief.
+- Managing Editor.
+- Staff Writer.
+- Contributor.
+- Fact-checker.
+
+Allow authorized users to create, edit, review, approve, schedule, and publish content.
+
+Include a clear correction and clarification policy.
+
+Do not automatically publish submitted content without editorial approval.
+
+---
+
+# 6. ADVOCACY CENTER
+
+Create a dedicated center presenting the network's advocacy areas, initiatives, and campaigns.
+
+### Advocacy Areas
+
+Build flexible advocacy categories that administrators can modify.
+
+Initial suggested categories:
+
+- Good Governance and Accountability.
+- Human Rights and Civil Liberties.
+- Education and Academic Freedom.
+- Youth Development and Participation.
+- Community Development.
+- Social Welfare and Inclusion.
+- Environmental Protection and Sustainability.
+- Public Information and Media Literacy.
+- Economic and Social Justice.
+- Democratic Participation and Civic Education.
+
+### Individual Advocacy Pages
+
+Each advocacy page must include:
+
+- Advocacy title.
+- Background and rationale.
+- Identified community concern.
+- Objectives.
+- Position and guiding principles.
+- Programs and proposed interventions.
+- Campaign materials.
+- Publications and research.
+- Partner organizations involved.
+- Upcoming activities.
+- Ways citizens can participate.
+
+Include campaign statuses:
+- Proposed.
+- Planning.
+- Active.
+- Temporarily Paused.
+- Completed.
+- Archived.
+
+Allow the administration to create new advocacy areas and campaigns without changing the application's source code.
+
+---
+
+# 7. OUR NETWORK — ORGANIZATIONS AND INSTITUTIONAL PARTNERS
+
+This section must serve as the public directory of the organizations and institutions connected to INDEPENDENTE.
+
+The platform must distinguish between the central network administration and affiliated partner organizations.
+
+### Organizational Membership Structure
+
+INDEPENDENTE operates through a network-based partnership structure.
+
+**A. Central Network Secretariat**
+
+The Secretariat and Executive Committee serve as the central administrative and coordinating body of INDEPENDENTE.
+
+The official central network membership is composed of the recognized Secretariat and Executive Committee, according to the network's governing policies.
+
+**B. Affiliated Partner Organizations**
+
+Organizations, institutions, associations, and community groups that establish an approved partnership with INDEPENDENTE become affiliated network organizations.
+
+Their recognized representatives and participating members may be included in the network's authorized participation structure, subject to the applicable partnership agreement and organizational policies.
+
+**C. Individual Network Participation**
+
+Provide opportunities for individual citizens, advocates, and volunteers to participate in appropriate public programs without automatically granting them formal organizational membership or administrative privileges.
+
+### Public Organization Directory
+
+Every affiliated organization should have a dedicated profile containing:
+
+- Organization name.
+- Logo.
+- Organization description.
+- Mission and vision.
+- Advocacy interests.
+- Geographic coverage.
+- Official representative.
+- Website and social media links.
+- Partnership date.
+- Partnership status.
+- Activities and contributions.
+- Related publications.
+
+Include filters:
+- Organization type.
+- Location.
+- Advocacy area.
+- Partnership status.
+
+### Partnership Application
+
+Create a public application form for organizations interested in becoming partners.
+
+Required information:
+- Organization name.
+- Organization type.
+- Official address.
+- Website or social media page.
+- Organization background.
+- Mission and vision.
+- Advocacy interests.
+- Authorized representative.
+- Position.
+- Official email.
+- Contact number.
+- Proposed partnership areas.
+- Supporting documents.
+- Consent and authorization.
+
+Application workflow:
+
+Submitted → Initial Review → Verification → Interview/Consultation (if necessary) → Approval or Rejection → Partnership Onboarding.
+
+Only administrators can approve partnership applications.
+
+---
+
+# 8. PARTNERSHIP PORTAL — SECURE ORGANIZATIONAL ACCESS
+
+Develop a separate, secure login-based portal for officially approved partner organizations.
+
+This is one of the most important components of the application.
+
+The portal must be accessible only to authorized representatives and users associated with approved partner organizations.
+
+### Login System
+
+Include:
+- Organization account login.
+- Email and password authentication.
+- Password reset.
+- Email verification.
+- Optional two-factor authentication.
+- Role-based permissions.
+- Secure session management.
+
+### Partner Dashboard
+
+After logging in, partner organizations should see:
+
+**A. Organization Profile**
+- View and update authorized organizational information.
+- Upload an updated logo.
+- Manage representatives.
+- Update official contact information.
+- View partnership status.
+
+**B. Network Announcements**
+- Internal announcements.
+- Secretariat circulars.
+- Official memoranda.
+- Important reminders.
+- Partnership updates.
+
+**C. Events and Participation**
+- View invited events.
+- Register participants.
+- Confirm attendance.
+- Submit delegation information.
+- View event materials.
+
+**D. Partnership Activities**
+- Submit proposed collaborative activities.
+- Report completed activities.
+- Upload accomplishment reports.
+- Submit photographs and documentation.
+- View ongoing joint projects.
+
+**E. Document Center**
+- Partnership agreements.
+- Memoranda of Understanding.
+- Organizational guidelines.
+- Official templates.
+- Shared publications.
+- Downloadable resources.
+
+**F. Communication and Coordination**
+- Submit inquiries to the Secretariat.
+- Receive administrative responses.
+- View coordination notices.
+- Submit requests for assistance or collaboration.
+
+**G. Network Participation**
+- View the network's activity calendar.
+- Access approved participation opportunities.
+- Receive calls for partnerships and consultations.
+
+### Partner User Roles
+
+Support multiple users under one organization account:
+
+- Organization Administrator.
+- Authorized Representative.
+- Communications Officer.
+- Program Coordinator.
+- Member/Participant.
+
+Partner organizations must only access their own private organizational information and authorized shared network materials.
+
+They must never be able to access another partner's confidential records.
+
+---
+
+# 9. EVENTS & ACTIVITIES PORTAL
+
+Create a centralized event management system.
+
+### Public Events Calendar
+
+Display:
+- Upcoming events.
+- Ongoing activities.
+- Past events.
+- Online events.
+- In-person events.
+- Hybrid events.
+
+### Event Categories
+
+- Conferences.
+- Forums and dialogues.
+- Consultations.
+- Workshops and training.
+- Community outreach.
+- Advocacy campaigns.
+- Organizational assemblies.
+- Partnership activities.
+- Public discussions.
+
+### Individual Event Pages
+
+Every event should have:
+
+- Event title.
+- Description.
+- Objectives.
+- Date and time.
+- Venue or online meeting information.
+- Organizer.
+- Participating organizations.
+- Registration requirements.
+- Registration deadline.
+- Available slots.
+- Contact person.
+- Event poster.
+- Related resources.
+
+### Registration System
+
+Allow:
+- Individual registration.
+- Organizational delegation registration.
+- Partner organization registration.
+- Participant confirmation.
+- Attendance tracking.
+- QR-based attendance.
+- Registration confirmation emails.
+
+### Event Administration
+
+Administrators must be able to:
+- Create and edit events.
+- Approve registrations.
+- Manage participant lists.
+- Export attendance records.
+- Send announcements.
+- Upload post-event documentation.
+- Publish event accomplishment reports.
+
+---
+
+# 10. CITIZEN ISANGUNI — CITIZEN CONCERN, COMPLAINT & REPORTING PORTAL
+
+This must be a prominent and highly functional component of the application.
+
+Create a dedicated public-facing portal called:
+
+## CITIZEN ISANGUNI
+**"Your Voice. Your Concern. Our Collective Responsibility."**
+
+The portal provides citizens with a structured channel to raise concerns, report community issues, submit complaints, recommend solutions, and bring matters requiring attention to the network.
+
+It should be accessible to anyone, including individuals who are not members of INDEPENDENTE or its partner organizations.
+
+### A. Submission Categories
+
+Allow citizens to select from the following:
+
+1. Public Service Concerns.
+2. Governance and Accountability.
+3. Community Problems.
+4. Education and Student Concerns.
+5. Human Rights and Civil Liberties.
+6. Environmental Issues.
+7. Social Welfare and Community Needs.
+8. Youth and Sectoral Concerns.
+9. Institutional Complaints.
+10. Recommendations and Policy Proposals.
+11. Requests for Assistance or Referral.
+12. Other Concerns.
+
+Allow administrators to create additional categories.
+
+### B. Citizen Submission Form
+
+Create an easy-to-use reporting form containing:
+
+**Concern Information**
+- Subject or title.
+- Category.
+- Location of concern.
+- Date of incident or observation.
+- Description of the concern.
+- Individuals or institutions involved (optional).
+- What happened?
+- Why does this matter?
+- What action or attention is being requested?
+
+**Supporting Evidence**
+- Photographs.
+- Documents.
+- PDF files.
+- Screenshots.
+- Other relevant attachments.
+
+**Reporter Information**
+- Full name (optional, depending on submission type).
+- Email address.
+- Contact number (optional).
+- Preferred method of communication.
+
+**Privacy Options**
+- Identified submission.
+- Confidential submission.
+- Anonymous submission.
+
+Clearly explain the implications of each privacy option.
+
+For anonymous reports, generate a unique tracking reference and a secure way to check updates without requiring the reporter to reveal their identity.
+
+### C. Submission Tracking
+
+After submitting a concern, the system should generate:
+
+- Unique reference number.
+- Submission confirmation.
+- Date and time.
+- Current status.
+- Secure tracking access.
+
+Allow citizens to check their submission through a reference number and secure access code.
+
+### D. Report Management Dashboard
+
+Create a restricted administrative dashboard where authorized personnel can review and process reports.
+
+Every report should have the following workflow:
+
+1. RECEIVED – Submission successfully received.
+2. INITIAL SCREENING – Checking completeness and relevance.
+3. UNDER REVIEW – Authorized personnel are examining the concern.
+4. FOR CLARIFICATION – Additional information is required.
+5. FOR REFERRAL – The concern may be forwarded to an appropriate institution or partner, subject to consent and applicable safeguards.
+6. ACTION INITIATED – An appropriate response or intervention has commenced.
+7. RESOLVED / ADDRESSED – The concern has received an appropriate response.
+8. CLOSED – Processing has concluded.
+9. OUT OF SCOPE – The submission falls outside the network's mandate, with an explanation where possible.
+
+Do not automatically classify a complaint as resolved simply because it has been forwarded.
+
+### E. Internal Case Management
+
+Authorized administrators must be able to:
+
+- Assign a report to a designated officer.
+- Add internal notes.
+- Record review history.
+- Request clarification.
+- Change report status.
+- Record actions taken.
+- Attach relevant documents.
+- Recommend referral.
+- Record referral acknowledgment.
+- Maintain a chronological activity log.
+
+### F. Referral and Coordination
+
+Where appropriate, the network may refer concerns to relevant organizations, public institutions, service providers, or partner organizations.
+
+However:
+
+- Referral must be based on relevance and authorization.
+- Personal information must not be shared without an appropriate legal basis or the reporter's informed consent.
+- Anonymous reports must not be used to identify reporters.
+- Sensitive reports must only be accessible to specifically authorized personnel.
+- The system must not publicly expose complainants or supporting evidence.
+
+### G. Citizen Protection and Responsible Reporting
+
+Include the following safeguards:
+
+- Confidentiality protection.
+- Data privacy notice.
+- Informed consent.
+- Secure file storage.
+- Restricted case access.
+- Anti-harassment policy.
+- Prohibition against knowingly submitting fabricated evidence.
+- Clear reporting limitations.
+
+The portal must not present INDEPENDENTE as a government investigative agency, law enforcement authority, court, or emergency response service.
+
+Display a disclaimer that submission does not guarantee investigation, legal representation, immediate intervention, or a particular outcome.
+
+For emergencies involving immediate danger, direct users to appropriate emergency services rather than relying on this portal.
+
+### H. Citizen Follow-up and Feedback
+
+Provide a secure follow-up channel where reporters can:
+
+- Check report status.
+- Respond to clarification requests.
+- Upload additional evidence.
+- Receive administrative updates.
+- Provide feedback on the handling of their submission.
+
+Do not publish citizen complaints automatically as media articles.
+
+Any decision to use information from a submission for public-interest journalism must undergo independent editorial verification, privacy review, and appropriate consent procedures.
+
+---
+
+# 11. ADMINISTRATION AND CENTRAL MANAGEMENT DASHBOARD
+
+Develop a centralized administrative dashboard for the Secretariat and authorized personnel.
+
+### Dashboard Overview
+
+Show:
+- Total publications.
+- Pending editorial submissions.
+- Active advocacy campaigns.
+- Registered partner organizations.
+- Pending partnership applications.
+- Upcoming events.
+- Event registrations.
+- Total citizen submissions.
+- Reports awaiting review.
+- Reports under processing.
+- Recent administrative activities.
+
+### Administrative Modules
+
+1. User and Account Management.
+2. Publication Management.
+3. Editorial Approval System.
+4. Advocacy and Campaign Management.
+5. Partner Organization Management.
+6. Partnership Application Review.
+7. Events Management.
+8. Registration Management.
+9. Citizen Isanguni Case Management.
+10. Document Management.
+11. Website Content Management.
+12. Analytics and Reports.
+13. System Settings and Permissions.
+
+### User Access Levels
+
+Create a strict role-based access control system:
+
+- Super Administrator – Complete application control.
+- Secretariat Administrator – Network-wide organizational administration.
+- Executive Committee – Authorized network oversight.
+- Editor-in-Chief – Publication approval and editorial management.
+- Editorial Staff – Content creation and editing.
+- Advocacy Coordinator – Advocacy program management.
+- Partnership Coordinator – Partner applications and organizational coordination.
+- Events Coordinator – Event creation and registration management.
+- Citizen Affairs Officer – Assigned citizen concerns and reports.
+- Partner Organization Administrator – Own organization portal.
+- Partner Representative – Authorized partner access.
+- Public Visitor – Public-facing website access.
+
+Sensitive Citizen Isanguni records must have separate access permissions from ordinary website administration.
+
+All important administrative actions must be recorded in an audit log.
+
+---
+
+# 12. VISUAL DESIGN AND BRANDING
+
+Create a professional, modern, minimalist, and credible visual identity.
+
+### Design Direction
+
+The platform should communicate:
+- Independence.
+- Credibility.
+- Transparency.
+- Professionalism.
+- Civic responsibility.
+- Modern citizenship.
+- Public engagement.
+
+### Color Palette
+
+Use a restrained combination of:
+
+- Deep Navy Blue – Authority, trust, and stability.
+- White – Transparency and clarity.
+- Red – Civic action, courage, and public participation.
+- Light Gray – Clean backgrounds and readable content.
+
+Avoid excessive gradients, unnecessary animations, overly decorative layouts, or a generic corporate template.
+
+### Typography
+
+Use a modern sans-serif font system.
+
+Suggested fonts:
+- Inter.
+- Manrope.
+- Montserrat.
+- Source Sans 3.
+
+Use strong editorial typography for headlines and readable body text.
+
+### User Interface
+
+Include:
+- Clean navigation.
+- Spacious layouts.
+- Editorial-style publication cards.
+- Responsive grids.
+- Professional dashboards.
+- Accessible forms.
+- Consistent icons.
+- Clear status indicators.
+- Light and dark mode if practical.
+
+The overall experience should resemble a credible independent media and civic organization.
+
+---
+
+# 13. TECHNICAL REQUIREMENTS
+
+Build a fully functional application, not just a static prototype.
+
+### Core Requirements
+
+- Responsive desktop, tablet, and mobile interface.
+- Secure authentication.
+- Role-based access control.
+- Database integration.
+- File and image upload functionality.
+- Search and filtering.
+- Administrative dashboards.
+- Email notifications.
+- Form validation.
+- Error handling.
+- Activity logs.
+- Data export.
+- Secure document storage.
+- Backup and recovery procedures.
+
+### Suggested Technology
+
+Use an appropriate modern full-stack architecture.
+
+Suggested stack:
+- Frontend: React / Next.js.
+- Styling: Tailwind CSS.
+- Backend: Supabase or an equivalent secure backend.
+- Database: PostgreSQL.
+- Authentication: Supabase Auth or equivalent.
+- File storage: Secure cloud storage.
+- Email: Transactional email service.
+- Hosting: Vercel or equivalent.
+
+Choose the most suitable architecture supported by the development platform.
+
+### Database Structure
+
+Design relational database tables for:
+
+- users
+- roles
+- permissions
+- organizations
+- organization_representatives
+- partnership_applications
+- partnership_agreements
+- publications
+- publication_categories
+- authors
+- advocacy_areas
+- campaigns
+- events
+- event_registrations
+- citizen_submissions
+- citizen_attachments
+- citizen_case_assignments
+- citizen_case_updates
+- referrals
+- internal_notes
+- notifications
+- documents
+- audit_logs
+- system_settings
+
+Implement appropriate relationships, validation rules, and access policies.
+
+### Security and Privacy
+
+Implement:
+- Secure password handling.
+- Role-based database access.
+- Row-level security where supported.
+- Protected administrative routes.
+- File upload validation.
+- Rate limiting.
+- Spam protection.
+- Input sanitization.
+- Secure authentication sessions.
+- Data minimization.
+- Privacy-conscious analytics.
+
+Follow applicable Philippine data protection requirements, particularly the Data Privacy Act of 2012 (Republic Act No. 10173) and its implementing rules.
+
+Do not expose confidential information through public APIs, search engines, URLs, or client-side code.
+
+---
+
+# 14. SEARCH, DISCOVERY, AND ACCESSIBILITY
+
+Provide a unified search function covering:
+
+- Publications.
+- Advocacy areas.
+- Campaigns.
+- Partner organizations.
+- Events.
+- Public announcements.
+
+Do not include private partner records or confidential citizen submissions in public search.
+
+Ensure the platform is accessible to users with disabilities.
+
+Include:
+- Keyboard navigation.
+- Screen-reader-friendly labels.
+- Sufficient color contrast.
+- Descriptive image text.
+- Clear form instructions.
+- Mobile-friendly controls.
+- Filipino and English content support.
+
+---
+
+# 15. NOTIFICATION SYSTEM
+
+Create automated notifications for:
+
+**Public Users**
+- Submission confirmation.
+- Citizen report status updates.
+- Event registration confirmation.
+- Event reminders.
+
+**Partner Organizations**
+- New network announcements.
+- Partnership application updates.
+- Invitations.
+- Document updates.
+- Event coordination notices.
+
+**Administrators**
+- New partnership applications.
+- New citizen submissions.
+- Reports requiring immediate screening.
+- Editorial submissions awaiting approval.
+- Upcoming events.
+- Important system alerts.
+
+Notifications must not disclose confidential report information through unsecured email messages.
+
+---
+
+# 16. ANALYTICS AND IMPACT REPORTING
+
+Create an analytics dashboard for the Secretariat.
+
+Track:
+- Publication readership.
+- Most-read articles.
+- Advocacy engagement.
+- Number of affiliated organizations.
+- Geographic distribution of partners.
+- Events conducted.
+- Event participation.
+- Number of citizen concerns received.
+- Categories of concerns.
+- Processing times.
+- Referral and resolution statistics.
+
+Provide downloadable monthly, quarterly, and annual reports.
+
+Use aggregated and anonymized citizen-reporting statistics for public impact reports. Never expose personal or sensitive case details.
+
+---
+
+# 17. DEVELOPMENT PHASES
+
+Develop the platform in organized phases.
+
+**PHASE 1 – Foundation**
+- Branding.
+- Homepage.
+- Navigation.
+- About Us.
+- Responsive interface.
+- Database foundation.
+
+**PHASE 2 – Media and Advocacy**
+- Publication center.
+- Editorial dashboard.
+- Advocacy center.
+- Campaign management.
+
+**PHASE 3 – Network and Partnerships**
+- Organization directory.
+- Partnership application.
+- Account registration.
+- Secure partner portal.
+- Partner dashboards.
+
+**PHASE 4 – Events**
+- Events calendar.
+- Registration.
+- Attendance tracking.
+- Event management.
+
+**PHASE 5 – Citizen Isanguni**
+- Public reporting form.
+- Anonymous and confidential submissions.
+- Secure tracking.
+- Administrative case management.
+- Referral and follow-up system.
+
+**PHASE 6 – Administration and Deployment**
+- Central dashboard.
+- User permissions.
+- Analytics.
+- Notifications.
+- Security testing.
+- Performance optimization.
+- Deployment.
+
+---
+
+# 18. FINAL DEVELOPMENT INSTRUCTIONS
+
+IMPORTANT:
+
+Do not build this as a simple landing page or a collection of nonfunctional sample screens.
+
+Develop a cohesive, operational, database-connected platform with distinct public-facing and authenticated experiences.
+
+Prioritize the following:
+
+1. A professional and credible public-facing website.
+2. A functional independent media and advocacy center.
+3. A verified directory of partner organizations.
+4. A secure partner-only portal.
+5. An operational events management system.
+6. A secure Citizen Isanguni reporting and case-management system.
+7. A centralized administrative dashboard.
+
+Every button, form, navigation link, account function, and dashboard module must have a defined and working purpose.
+
+If an external service or integration requires credentials, create the necessary configuration fields and clearly document the setup requirements. Never simulate successful authentication, report submission, email delivery, or data storage when the underlying functionality is not connected.
+
+Use realistic sample content only for development previews. Clearly distinguish demonstration records from actual organizational data.
+
+Build the application with scalability in mind so INDEPENDENTE can eventually accommodate partner organizations and citizens from different cities, provinces, regions, and communities across the Philippines.
+
+**FINAL PRODUCT VISION:**
+
+INDEPENDENTE should become a centralized digital civic infrastructure where citizens can become informed, organizations can collaborate, communities can raise their concerns, and independent voices can participate meaningfully in public life.
+
+**INDEPENDENTE — An Independent Citizens Network.**
+
+Malayang Mag-isip. Malayang Pumili. Malayang Kumilos.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="INDEPENDENTE Civic Network Emblem">
+  <rect width="512" height="512" rx="96" fill="#0F294A" />
+  <rect x="44" y="44" width="424" height="424" rx="72" fill="none" stroke="#F4B400" stroke-width="10" opacity="0.9" />
+  <circle cx="256" cy="206" r="92" fill="#F4B400" />
+  <path d="M180 262 C210 218, 250 198, 256 154 C262 198, 302 218, 332 262 Z" fill="#0F294A" />
+  <path d="M116 392 L224 274 L256 320 L288 274 L396 392 Z" fill="#FFFFFF" />
+  <rect x="196" y="348" width="120" height="22" rx="6" fill="#C8102E" />
+  <text x="256" y="438" text-anchor="middle" font-family="Georgia, serif" font-size="40" font-weight="700" letter-spacing="4" fill="#FFFFFF">INDEPENDENTE</text>
+</svg>
